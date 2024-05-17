@@ -4,11 +4,7 @@
 # Web-Scraping, sort-of
 # ...my usual overkill: I use mighty tools to do
 # only a tiny little thing.
-<<<<<<< HEAD
-# (another comment just to get a merge conflict)
-=======
 # (beautifulsoup in this case)
->>>>>>> merge-test
 
 from argparse import ArgumentParser
 parser = ArgumentParser(description='fetch a temperature from a LANUV station')
