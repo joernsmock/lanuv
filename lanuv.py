@@ -4,7 +4,7 @@
 # Web-Scraping, sort-of
 # ...my usual overkill: I use mighty tools to do
 # only a tiny little thing.
-#
+# (another comment just to get a merge conflict)
 
 from argparse import ArgumentParser
 parser = ArgumentParser(description='fetch a temperature from a LANUV station')
