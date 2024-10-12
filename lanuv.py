@@ -13,11 +13,6 @@ parser.add_argument("-s", "--station", action="store",   dest="STATION", type=st
                     default='Köln Clevischer Ring', help="a station name", required=False)
 args = parser.parse_args()
 
-if args.STATION:
-    mystation = args.STATION
-else:
-    mystation = "Köln Clevischer Ring"
-
 # --------------------------------------------
 # do it:
 #
